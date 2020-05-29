@@ -1,0 +1,86 @@
+
+    body{
+      margin: 0;
+        }
+    a {
+      color:black;
+      text-decoration: none;
+    }
+
+
+    h2 {
+      font-size:15px;
+      text-align: left;
+      border-bottom:1px solid gray;
+      margin:0;
+      padding:20px;
+      background-color: rgb(141,198,63);
+      color: white;
+    }
+    h3{
+        text-align: center;
+        
+        padding:20px;
+        margin-top:20px;
+        background-color: rgb(241,241,241);
+    }
+      #grid{
+        display: grid;
+        grid-template-columns: 150px 1fr;
+      }
+      #grid ol{
+        padding-left:13px;
+      }
+      #grid #article {
+        padding-left:25px;
+      }
+     
+    img{
+        position:block;
+        width: 105px;
+        height: 140px;
+        grid-column: 1;
+        top:-47%;
+        margin-left:-86%;
+        z-index:10;
+
+    }
+    .form-group {
+        margin-top: -88px; 
+        margin-left: 360px;
+    }
+    ol{
+        margin-left: 10%;
+    }
+    
+    #wherecampus{
+
+        position:relatvie;
+        margin-top:  20px;
+        margin-left: 90%;
+        margin-bottom: -30x;
+        
+        
+
+    }
+
+    button{
+        background-color: white;
+        border-color: rgb(141,198,63);
+        border-radius: 10%;
+        
+    }
+
+    #tothetop{
+        position:fixed;
+        left:2px;
+        bottom:80px;
+    }
+    .title{
+        color:rgb(21,53,175);
+        font-weight: bold;
+        font-size: large;
+    }
+    .Where{
+        font-weight: bold;
+    }
