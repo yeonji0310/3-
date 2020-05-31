@@ -26,7 +26,8 @@
     }
       #grid{
         display: grid;
-        grid-template-columns: 150px 1fr;
+        grid-template-columns: 15% 50% 35%;
+        margin-top:-10px;
       }
       #grid ol{
         padding-left:13px;
@@ -73,7 +74,7 @@
 
     #tothetop{
         position:fixed;
-        left:2px;
+        right:2px;
         bottom:80px;
     }
     .title{
@@ -84,3 +85,11 @@
     .Where{
         font-weight: bold;
     }
+    ul{
+     
+      font-size: medium;
+      list-style: none;
+    }
+   
+      
+    
