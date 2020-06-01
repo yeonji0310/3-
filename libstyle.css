@@ -28,6 +28,7 @@
         display: grid;
         grid-template-columns: 15% 50% 35%;
         margin-top:-10px;
+        
       }
       #grid ol{
         padding-left:13px;
@@ -52,6 +53,7 @@
     }
     ol{
         margin-left: 10%;
+      font-size: medium;
     }
     
     #wherecampus{
@@ -86,10 +88,57 @@
         font-weight: bold;
     }
     ul{
-     
+      
       font-size: medium;
       list-style: none;
     }
-   
+    .button{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 70%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button:hover{
+     
+      background: none;
+
+    }
+    .active#heart:before,.active#heart:after{
+      background: red !important;
+    }
+    #heart {
+        width: 100px;
+        height: 90px;
+        transition: background 0.5s ease;
+      
+    }
+    #heart:before,
+    #heart:after {
+      transition: background 0.5s ease;
+        position: absolute;
+        text-align: center;
+        content: "";
+        left: 50px;
+        top: 0;
+        width: 50px;
+        height: 80px;
+        background: dimgrey;
+        border-radius: 50px 50px 0 0;
+        transform: rotate(-45deg);
+        transform-origin: 0 100%;
+    }
+    #heart:after {
+        left: 0;
+        transform: rotate(45deg);
+        transform-origin :100% 100%;
+    }
       
     
