@@ -92,25 +92,6 @@
       font-size: medium;
       list-style: none;
     }
-    .button{
-      width: 50px;
-      height: 50px;
-      top:60%;
-      position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
-      border-radius: 5px;
-      background: none;
-      cursor: pointer;
-      transition: background 0.5s ease;
-      content:"추가구매";
-    }
-    .button:hover{
-     
-      background: none;
-
-    }
     .button1{
       width: 50px;
       height: 50px;
@@ -126,6 +107,177 @@
       content:"추가구매";
     }
     .button1:hover{
+     
+      background: none;
+
+    }
+    .button2{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button2:hover{
+     
+      background: none;
+
+    }
+    .button3{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button3:hover{
+     
+      background: none;
+
+    }
+    .button4{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button4:hover{
+     
+      background: none;
+
+    }
+    .button5{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button5:hover{
+     
+      background: none;
+
+    }
+    .button6{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button6:hover{
+     
+      background: none;
+
+    }
+    .button7{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button7:hover{
+     
+      background: none;
+
+    }
+    .button8{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button8:hover{
+     
+      background: none;
+
+    }
+    .button9{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button9:hover{
+     
+      background: none;
+
+    }
+    .button10{
+      width: 50px;
+      height: 50px;
+      top:60%;
+      position: relative;
+      left: 80%;
+      margin-top: -60px;
+      margin-left: -60px;
+      border-radius: 5px;
+      background: none;
+      cursor: pointer;
+      transition: background 0.5s ease;
+      content:"추가구매";
+    }
+    .button10:hover{
      
       background: none;
 
