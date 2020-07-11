@@ -49,17 +49,23 @@ $( document ).ready(function() {
     
     // add tweens to timeline:
     timeline.add(tween1, tween2, tween3);
-    
-    
     // when clicking the button start the timeline/animation:
     $( ".button" ).click(function() {
         if ($(this).hasClass('active')){
             $(this).removeClass('active');
+            
         }else{
-      timeline.play();
-      $(this).addClass('active');
+            timeline.play();
+         $(this).addClass('active');
         }
     });
-    
-    
+    $( ".button1" ).click(function() {
+        if ($(this).hasClass('active')){
+            $(this).removeClass('active');
+            
+        }else{
+            timeline.play();
+         $(this).addClass('active');
+        }
     });
+});
