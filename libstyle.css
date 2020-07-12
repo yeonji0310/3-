@@ -7,7 +7,6 @@
       text-decoration: none;
     }
 
-
     h2 {
       font-size:15px;
       text-align: left;
@@ -31,12 +30,11 @@
         
       }
       #grid ol{
-        padding-left:13px;
+        padding-left:50px;
       }
       #grid #article {
-        padding-left:25px;
+        padding-left:200px;
       }
-     
     img{
         position:block;
         width: 105px;
@@ -84,7 +82,7 @@
         font-weight: bold;
         font-size: large;
     }
-    .Where{
+    .Where,.data{
         font-weight: bold;
     }
     ul{
@@ -92,19 +90,25 @@
       font-size: medium;
       list-style: none;
     }
-    .button1{
-      width: 50px;
-      height: 50px;
-      top:60%;
+    li{
+      line-height: 2.5em;
+      font-size: medium;
+      
+    }
+    #data{
+      margin-bottom: 20px;
+      line-height: 200px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
+    }
+    .button1{
+      left:300px;
+      top:-75px;
+      position: relative;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
+     
     }
     .button1:hover{
      
@@ -112,18 +116,14 @@
 
     }
     .button2{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
+     
     }
     .button2:hover{
      
@@ -131,18 +131,13 @@
 
     }
     .button3{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
     }
     .button3:hover{
      
@@ -150,18 +145,13 @@
 
     }
     .button4{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
     }
     .button4:hover{
      
@@ -169,18 +159,13 @@
 
     }
     .button5{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
     }
     .button5:hover{
      
@@ -188,18 +173,13 @@
 
     }
     .button6{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
     }
     .button6:hover{
      
@@ -207,18 +187,13 @@
 
     }
     .button7{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
     }
     .button7:hover{
      
@@ -226,18 +201,13 @@
 
     }
     .button8{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
     }
     .button8:hover{
      
@@ -245,18 +215,13 @@
 
     }
     .button9{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
     }
     .button9:hover{
      
@@ -264,18 +229,13 @@
 
     }
     .button10{
-      width: 50px;
-      height: 50px;
-      top:60%;
+      left:300px;
+      top:-75px;
       position: relative;
-      left: 80%;
-      margin-top: -60px;
-      margin-left: -60px;
       border-radius: 5px;
       background: none;
       cursor: pointer;
       transition: background 0.5s ease;
-      content:"추가구매";
     }
     .button10:hover{
      
